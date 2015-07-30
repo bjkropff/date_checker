@@ -1,0 +1,3 @@
+AddHandler application/x-httpd-php55 .php .php5 .php4 .php3
+DirectoryIndex web/index.php
+FallbackResource web/index.php
