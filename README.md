@@ -2,10 +2,12 @@
 Brian Kropff
 
 ###Date
-July 06, 2015
+July 30, 2015
 
 ###Description
-This is a 'title Case Generator' apps written in PHP. It uses Composer to install [PHPUnit](https://phpunit.de/), [Silex](http://silex.sensiolabs.org/), and [Twig](http://twig.sensiolabs.org/).  It also links to a [Bootstrap CDN](http://www.bootstrapcdn.com/) for CSS Styling.
+This is a 'Date Checker' app written in PHP. It will take two dates as inputs (Mmm dd, yyyy [e.g. Jun 29, 1900]) compare them and return the most compact version stating the year once if it is the same, the month once if the month AND year are the same, and date once if the whole date is the same.
+
+It uses Composer to install [PHPUnit](https://phpunit.de/), [Silex](http://silex.sensiolabs.org/), and [Twig](http://twig.sensiolabs.org/).  It also links to a [Bootstrap CDN](http://www.bootstrapcdn.com/) for CSS Styling.
 
 ###Use and Editing
 To use this boilerplate, simply: <br />
